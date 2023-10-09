@@ -23,8 +23,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [https://github.com/Bovett/QR_code](https://github.com/Bovett/QR_code)
-- Live Site URL: [https://bovett.github.io/QR_code/](https://bovett.github.io/QR_code/)
+- Solution URL: [https://github.com/Bovett/qr-code](https://github.com/Bovett/qr-code)
+- Live Site URL: [https://bovett.github.io/qr-code/](https://bovett.github.io/qr-code/)
 
 ## My process
 
