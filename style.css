@@ -1,0 +1,52 @@
+html{
+        box-sizing: border-box;
+        font-size: 15px;
+}
+body{
+        background-color: hsl(212, 45%, 89%);
+        font-family: 'Outfit', sans-serif;
+
+}
+*, *:before, *:after {
+        box-sizing: inherit;
+}
+#main-container{
+        height: 500px;
+        width: 320px;
+        background-color: white;
+        border-radius: 20px;
+        margin: auto;
+        margin-top: 4.5%;
+        margin-bottom: auto;
+
+}
+#qr-code{
+        height: 64%;
+        width: 100%;
+        border-radius: 10px;
+        padding: 15px;
+}
+#image{
+        height: 100%;
+        width: 100%;
+        border-radius: 10px;
+}
+#words{
+        height: 36%;
+        border-radius: 10px;
+        padding-right: 30px;
+        padding-left: 30px;
+        text-align: center;
+}
+#bold {
+        color: hsl(218, 44%, 22%);
+        font-weight: 700;
+        font-size: 1.5rem;
+        margin-top: 10px;
+        margin-bottom: 15px;
+}
+#grey-text {
+        font-size: 1.05rem;
+        color: hsl(220, 15%, 55%);
+        margin-top: 10px;
+}
